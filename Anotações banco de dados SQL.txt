@@ -1,5 +1,0 @@
-
-Banco de dados SQL
-
-Link com material em PowerPoint de Introdução à Banco de dados(Trila de Banco de dados relacional) da DIO:
-https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EfdP8l5MJvRAmiZFTHypmeQBvVQrq0eWF21fgwJW4mO_qA?e=gMaIOR
